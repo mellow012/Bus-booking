@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# BusBooker - Multi-Company Bus Booking Platform
+
+# BooknPay - Multi-Company Bus Booking Platform
 
 A comprehensive bus booking platform built with Next.js 14, Firebase, and Tailwind CSS that allows users to search, compare, and book bus tickets from multiple companies.
 
