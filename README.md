@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BusBooker - Multi-Company Bus Booking Platform
 
 A comprehensive bus booking platform built with Next.js 14, Firebase, and Tailwind CSS that allows users to search, compare, and book bus tickets from multiple companies.
@@ -263,3 +264,7 @@ For support or questions, please contact the development team or create an issue
 
 **Built with ❤️ using Next.js, Firebase, and Tailwind CSS**
 
+=======
+# Bus-booking
+a multi-purpose bus booking web app
+>>>>>>> c4d636767dab44e440be772f9d5c8876f3783c3f
